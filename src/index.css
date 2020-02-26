@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+.skylight-close-button {
+    color: white;
+}
+
+.carousel {
+    padding: 0 10px;
+    border-radius: 4px;
+    width: 100%;
+    margin: auto;
+}
+.carousel__main {
+    border-radius: 4px;
+    height: 160px;
+}
+
+.carousel__item {
+    width: 100%;
+}
+
+.demo-item {
+    background-size: contain;
+}
+
+.carousel__dots {
+    bottom: -8px;
+}
