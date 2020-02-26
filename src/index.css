@@ -9,7 +9,7 @@
 .carousel {
     padding: 0 10px;
     border-radius: 4px;
-    width: 100%;
+    width: 100% !important;
     margin: auto;
 }
 .carousel__main {
@@ -18,11 +18,11 @@
 }
 
 .carousel__item {
-    width: 100%;
+    width: 100% !important;
 }
 
 .demo-item {
-    background-size: contain;
+    background-size: contain !important;
 }
 
 .carousel__dots {
